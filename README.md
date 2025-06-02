@@ -153,10 +153,19 @@
 --> 
 ## 📊 GitHub Activity
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=upend123&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=upend123&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+---
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=upend123&theme=github-compact" alt="GitHub Contribution Graph"/>
 </p>
+
 ---
+
 ## 🔗 Let's Connect!
 
 - 📧 Email: [upendrayadav10@gmail.com](mailto:upendrayadavofficial10@gmail.com)  
